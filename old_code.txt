@@ -1,0 +1,9 @@
+style={{color: 'black', fontWeight: 'bold', textAlign: 'left'}}
+
+//   <View style={styles.icons}>
+//     <TouchableOpacity>
+//
+//     </TouchableOpacity>
+//   <FontAwesome name="pencil-square-o" size={24} color="black" style={{margin:'2%'}}/>
+// <FontAwesome name="trash-o" size={24} color="black"/>
+//   </View>
